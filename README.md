@@ -46,12 +46,16 @@ O sistema permite cadastrar, listar, atualizar e excluir veículos, além de for
 
 ## 🚀 Como Executar o Projeto
 
+---
+
 ### **1️⃣ Clonar o repositório**
 
 ```bash
-git clone [https://github.com/luisgu496/TesteBackendVeiculos/tree/main]
+git clone https://github.com/luisgu496/TesteBackendVeiculos/tree/main
 cd meu-projeto-veiculos
 ```
+
+---
 
 ### **2️⃣ Rodar o Backend (Kotlin)**
 
@@ -72,6 +76,8 @@ cd backend
 ```bash
 http://localhost:8080
 ```
+
+---
 
 ### **3️⃣ Rodar o Frontend (React)**
 
@@ -99,6 +105,7 @@ npm run dev
 http://localhost:5173
 ```
 
-👨‍💻 Autor
-Desenvolvido por Luis Gustavo 🚀
+---
 
+## ✍ Autor
+Desenvolvido por Luis Gustavo Ferreira Leite  🚀
