@@ -49,7 +49,7 @@ O sistema permite cadastrar, listar, atualizar e excluir veículos, além de for
 ### **1️⃣ Clonar o repositório**
 
 ```bash
-git clone [https://github.com/seu-usuario/meu-projeto-veiculos.git](https://github.com/luisgu496/TesteBackendVeiculos/tree/main)
+git clone [https://github.com/luisgu496/TesteBackendVeiculos/tree/main]
 cd meu-projeto-veiculos
 ```
 
